@@ -1,0 +1,6 @@
+---
+applications:
+- name: apk-api
+  memory: 64M
+  buildpacks:
+  - ruby_buildpack
